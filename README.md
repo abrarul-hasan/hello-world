@@ -1,2 +1,5 @@
 # hello-world
-my new repository
+
+hi programmers!
+
+abrar here, i like doing programming which i don't used to
